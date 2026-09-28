@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://supplymind-ai-36j7.onrender.com/api/:path*"
+    }
+  ]
+}
